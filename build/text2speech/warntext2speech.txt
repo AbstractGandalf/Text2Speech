@@ -1,0 +1,14 @@
+missing module named nt - imported by os, ntpath, shutil, /home/neotius/PythonProjects/Text2Speech/text2speech.py
+missing module named 'org.python' - imported by pickle, /home/neotius/PythonProjects/Text2Speech/text2speech.py, xml.sax
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, /home/neotius/PythonProjects/Text2Speech/text2speech.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, /home/neotius/PythonProjects/Text2Speech/text2speech.py
+missing module named _winreg - imported by platform, /home/neotius/PythonProjects/Text2Speech/text2speech.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, /home/neotius/PythonProjects/Text2Speech/text2speech.py
+missing module named 'java.lang' - imported by platform, /home/neotius/PythonProjects/Text2Speech/text2speech.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, /home/neotius/PythonProjects/Text2Speech/text2speech.py
+missing module named winreg - imported by platform, mimetypes, /home/neotius/PythonProjects/Text2Speech/text2speech.py, urllib.request
+missing module named msvcrt - imported by subprocess, /home/neotius/PythonProjects/Text2Speech/text2speech.py, getpass
+missing module named _winapi - imported by subprocess, /home/neotius/PythonProjects/Text2Speech/text2speech.py
+missing module named _dummy_threading - imported by dummy_threading, /home/neotius/PythonProjects/Text2Speech/text2speech.py
+missing module named org - imported by copy, /home/neotius/PythonProjects/Text2Speech/text2speech.py
